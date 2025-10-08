@@ -1,0 +1,19 @@
+- java: 
+  - 基础语法 https://www.runoob.com/java/java-tutorial.html
+  - springboot https://spring.io/projects/spring-boot， 主要看 Spring Data JPA, Spring Integration, Spring REST Docs
+  - 第三方库：https://mvnrepository.com/
+- Go: 
+  - 基础语法：https://go.dev/
+  - 数据库框架：https://gorm.io/index.html
+  - web 框架：https://gin-gonic.com/
+  - 第三方库：支持直接通过git 下载所有开源的github 或者 gitee 的golang库
+- Node：
+  - web 框架：https://expressjs.com/
+  - 语法：https://www.runoob.com/nodejs/nodejs-tutorial.html
+  - 数据库框架：https://typeorm.io/docs/getting-started
+  - 第三方库查找：https://www.npmjs.com/
+- Python:
+  - 语法：
+  - web 框架：https://flask.palletsprojects.com/en/stable/quickstart/
+  - 数据库：https://docs.sqlalchemy.org/en/20/orm/quickstart.html
+  - 第三方库：https://pypi.org/
