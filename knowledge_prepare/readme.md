@@ -2,11 +2,11 @@
 
 ## 基础设施相关
 
-[Docker知识库](./docker.md)
-[Kubernetes知识库](./kubernetes.md)
-[MySQL知识库](./mysql.md)
-[PostgreSQL知识库](./postgres.md)
-[Redis知识库](./redis.md)
+- [Docker知识库](./docker.md)
+- [Kubernetes知识库](./kubernetes.md)
+- [MySQL知识库](./mysql.md)
+- [PostgreSQL知识库](./postgres.md)
+- [Redis知识库](./redis.md)
 
 ## SaaS平台架构
 
@@ -51,6 +51,6 @@
 - **Spot实例**: 成本敏感型工作负载
 
 ## 语言算法类
-[language_learning.md](./language_learning.md)
-[数据结构和算法知识库](./data_structures_algorithms.md)
-[设计模式知识库](./design_patterns.md)
+- [language_learning.md](./language_learning.md)
+- [数据结构和算法知识库](./data_structures_algorithms.md)
+- [设计模式知识库](./design_patterns.md)
